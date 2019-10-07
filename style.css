@@ -176,23 +176,23 @@ circle {
 }
 
 .slide1 {
-  background-image: url("S__10657806.jpg");
+  background-image: url("pic/4CE3D5C8-33A1-479D-878B-40B7FAA0B4B2.jpg");
   min-height: 100vh;
 background-position: center;
 }
 
 .slide2 {
-  background: url("4CE3D5C8-33A1-479D-878B-40B7FAA0B4B2.jpg");
+  background: url("pic/S__10657801.jpg");
 	
 }
 
 .slide3 {
-  background-image: url("photo_20190909230716_6553892_0.jpg");
+  background-image: url("pic/photo_20190909230716_6553892_0.jpg");
 	background-size: cover;
 }
 
 .slide4 {
-  background-image: url("S__10657801.jpg");
+  background-image: url("pic/S__10657806.jpg");
 	background-size: cover;
 }
 
