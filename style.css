@@ -221,6 +221,19 @@ background-position: center;
   transition: 1.4s;
 }
 
+.slider a {
+  position: absolute;
+  text-decoration: none;
+  font-size: 30px;
+  color : white;
+  top : 80%;
+  left : 50%;
+}
+
+.slider a:hover{
+  color : rgb(235, 255, 144);
+}
+
 .tran {
   transform: scale(1.1);
 }
