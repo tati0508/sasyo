@@ -30,9 +30,9 @@ svg {
 button {
   position: absolute;
   z-index: 50;
-  width: 80px;
+  width: 11.89vh;
   overflow: hidden;
-  height: 80px;
+  height: 11.89vh;
   border: none;
   border-radius: 50%;
   background: #fff;
@@ -74,8 +74,8 @@ circle {
 }
 
 .right {
-  margin-left: calc(97.84vw - 80px);
-  margin-top: 43.72vh;
+  margin-left: calc(97.84vw - 11.89vh);
+  margin-top: 43.71vh;
   border: 1px solid #849494;
   background-color: transparent;
   transition: .5s;
@@ -86,7 +86,7 @@ circle {
 
 .left {
   margin-left: 2.16vw;
-  margin-top: 43.72vh;
+  margin-top: 43.71vh;
   border: 1px solid #849494;
   background-color: transparent;
   transition: .5s;
@@ -183,17 +183,21 @@ background-position: center;
 
 .slide2 {
   background: url("pic/S__10657801.jpg");
+  min-height: 100vh;
+background-position: center;
 	
 }
 
 .slide3 {
   background-image: url("pic/photo_20190909230716_6553892_0.jpg");
-	background-size: cover;
+  min-height: 100vh;
+background-position: center;
 }
 
 .slide4 {
   background-image: url("pic/S__10657806.jpg");
-	background-size: cover;
+  min-height: 100vh;
+background-position: center;
 }
 
 .slider {
